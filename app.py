@@ -1,6 +1,6 @@
 """
 Credit Card Fraud Detection — Streamlit App
-Converted from Clement_ML.ipynb
+Converted from Blueorbit Global Limited_ML.ipynb
 """
 
 import matplotlib
